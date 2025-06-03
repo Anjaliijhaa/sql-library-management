@@ -85,11 +85,6 @@ Based on the current dataset:
 - **Overdue Items**: 1984 borrowed by Alice Smith since March 15, 2024
 - **Genre Distribution**: Fantasy, Dystopian, and Classic genres each have 1 loan
 
-## 🚀 Getting Started
-
-### Prerequisites
-- MySQL or compatible SQL database
-- Database management tool (MySQL Workbench, phpMyAdmin, etc.)
 
 ### Installation
 
